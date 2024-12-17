@@ -539,7 +539,7 @@ footer {
 
 @media all and (min-width: 768px) {
     .content-container p {
-    font-size: 0.9rem;
+    font-size: 0.2rem;
 }
 
 .content__block--first h2,
