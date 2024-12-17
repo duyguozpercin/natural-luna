@@ -539,14 +539,14 @@ footer {
 
 @media all and (min-width: 768px) {
     .content-container p {
-    font-size: 0.2rem;
+    font-size: 1.3rem;
 }
 
 .content__block--first h2,
 .content__block--third h3,
 .content__block--fifth h3,
 .content__block--seventh h3 {
-    font-size: 1rem;
+    font-size: 1.4rem;
     }
 }
 
