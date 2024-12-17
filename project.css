@@ -418,12 +418,12 @@ footer {
 
     .main-content__text,
     .discover__text {
-        font-size: 1rem;
+        font-size: 1.2rem;
 
     }
 
     .products__title h1 {
-        font-size: 0.7rem;
+        font-size: 1.3rem;
     }
 
     .logo {
@@ -485,6 +485,10 @@ footer {
 
 
 /* About */
+@media all and (min-width: 768px) {
+    .image-content__box p {
+        font-size: 1.3rem;
+}
 
 @media all and (min-width: 1023px) {
 
