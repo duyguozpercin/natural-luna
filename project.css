@@ -461,7 +461,7 @@ footer {
 
     .main-content__text,
     .discover__text {
-        font-size: 1.5rem;
+        font-size: 1.35rem;
     }
 
     .products__title h1 {
@@ -548,6 +548,11 @@ footer {
         margin-top: 90px;
 
     }
+
+    .content-container p {
+        font-size: 1.3rem;
+    }
+
 
     .content__block--first {
         display: grid;
