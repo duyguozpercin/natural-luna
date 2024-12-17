@@ -486,7 +486,7 @@ footer {
 
 /* About */
 @media all and (min-width: 768px) {
-    .image-content__box p {
+    .image-content__text {
         font-size: 1.3rem;
     }
 }
