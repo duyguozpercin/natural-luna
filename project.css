@@ -537,6 +537,19 @@ footer {
 
 /* Products */
 
+@media all and (min-width: 768px) {
+    .content-container p {
+    font-size: 0.9rem;
+}
+
+.content__block--first h2,
+.content__block--third h3,
+.content__block--fifth h3,
+.content__block--seventh h3 {
+    font-size: 1rem;
+    }
+}
+
 @media all and (min-width: 1023px) {
     .content-container {
         display: grid;
