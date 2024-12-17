@@ -128,7 +128,7 @@ video {
 .products__title h1 {
     display: flex;
     justify-content: center;
-    font-size: 0.95rem;
+    font-size: 1.2rem;
     font-family: var(--font-primary);
     font-weight: 600;
     color: var(--color-primary)
@@ -169,7 +169,7 @@ video {
 .content-container p {
     font-family: var(--font-primary);
     font-style: italic;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
 }
 
 .content__block--first h2,
@@ -178,7 +178,7 @@ video {
 .content__block--seventh h3 {
     font-family: var(--font-primary);
     font-style: italic;
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     font-weight: 600;
 
 }
@@ -320,7 +320,7 @@ video {
 
 .about-grid__text--last {
     font-family: var(--font-primary);
-    font-size: 0.95rem;
+    font-size: 1.1rem;
     width: 95%;
     margin: 0 auto;
     margin-top: 40px;
@@ -334,7 +334,7 @@ video {
 
 .about-grid__text p {
     font-family: var(--font-primary);
-    font-size: 0.95rem;
+    font-size: 1.1rem;
     width: 95%;
     margin: 0 auto;
     margin-top: 40px;
