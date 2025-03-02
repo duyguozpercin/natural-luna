@@ -41,8 +41,6 @@ body {
 
 }
 
-
-
 .navbar .nav-link.active {
     all: unset;
     color: inherit;
@@ -52,14 +50,12 @@ body {
 }
 
 /* video */
-
 video {
     width: 100%;
     height: auto;
 }
 
 /* Homepage */
-
 .main-content {
     width: 80%;
     height: auto;
@@ -99,13 +95,11 @@ video {
     width: 100%;
 }
 
-
 .products__photo img {
     width: 100%;
     height: auto;
     border-radius: 5px;
 }
-
 
 .products__title h1 {
     display: flex;
@@ -119,7 +113,6 @@ video {
 .products__title a {
     text-decoration: none;
 }
-
 
 .discover {
 
@@ -140,7 +133,6 @@ video {
 
 
 /* Products */
-
 .content-container {
     width: 90%;
     margin: 0 auto;
@@ -254,7 +246,6 @@ video {
 
 
 /* About */
-
 .imagecontent {
     background-image: url(/Images/michael-obeysekera-npHGT9LW1Mk-unsplash\ \(1\).jpg);
     width: 100%;
@@ -280,18 +271,11 @@ video {
     text-align: center;
 }
 
-
-
-
-
-
 .about-grid__photo {
     width: 100%;
     height: auto;
     border-radius: 10px;
 }
-
-
 
 .about-grid__text--last {
     font-family: var(--font-primary);
@@ -302,10 +286,6 @@ video {
     margin-bottom: 40px;
     font-style: italic;
 }
-
-
-
-
 
 .about-grid__text p {
     font-family: var(--font-primary);
@@ -322,7 +302,6 @@ video {
 }
 
 /* footer */
-
 .card-header.bg-primary {
     background-color: var(--color-tertiary) !important;
     font-family: var(--font-primary);
@@ -333,9 +312,6 @@ video {
     font-size: 0.9rem;
     color: black;
 }
-
-
-
 
 .container-fluid {
     margin-top: 0 !important;
@@ -348,16 +324,12 @@ video {
     border: none;
 }
 
-
-
-
 .col-md-6 {
 
     margin: 0;
     padding: 0;
     width: 100%;
 }
-
 
 footer {
     background-color: var(--color-tertiary);
@@ -367,7 +339,6 @@ footer {
     align-items: center;
     max-width: 100%;
 }
-
 
 .card {
     background-color: var(--color-tertiary) !important;
@@ -385,7 +356,6 @@ footer {
 }
 
 /* Homepage */
-
 @media all and (min-width: 768px) {
 
     .main-content__text,
@@ -457,7 +427,6 @@ footer {
 
 
 /* About */
-
 @media all and (min-width: 768px) {
     .image-content__text {
         font-size: 1.3rem;
@@ -514,7 +483,6 @@ footer {
 
 
 /* Products */
-
 @media all and (min-width: 768px) {
     .content-container p {
         font-size: 1.3rem;
@@ -590,12 +558,9 @@ footer {
         grid-row: 4;
     }
 
-
-
 }
 
 /* navbar */
-
 @media all and (min-width: 1023px) {
     #navbar-example2 .nav-link {
         font-size: 20px;
@@ -603,7 +568,6 @@ footer {
 }
 
 /* footer */
-
 @media all and (min-width: 768px) {
     .copyright {
         font-size: 0.90rem;
